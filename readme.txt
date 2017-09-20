@@ -1,0 +1,1 @@
+An R markdown example of implementing Bayesian Adaptive Sampling to create multiple linear regression models, and prediction under Bayesian Model Averaging.  This uses the movies.Rdata file to predict the Rotten Tomatoes "Audience Score."
